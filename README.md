@@ -34,7 +34,11 @@ import 'package:flutter_bubble/bubble_widget.dart';
 ```
 
 # ScreenCapture
-
+![image](https://github.com/ACE-YANGCE/Flutter_Bubble/blob/master/prototype.png)
+![image](https://github.com/ACE-YANGCE/Flutter_Bubble/blob/master/bubble_chat.jpg)
+![image](https://github.com/ACE-YANGCE/Flutter_Bubble/blob/master/bubble_demo01.jpg)
+![image](https://github.com/ACE-YANGCE/Flutter_Bubble/blob/master/bubble_demo02.jpg)
+![image](https://github.com/ACE-YANGCE/Flutter_Bubble/blob/master/bubble_demo03.jpg)
 
 ## Getting Started
 

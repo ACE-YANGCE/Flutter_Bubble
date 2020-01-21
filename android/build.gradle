@@ -2,7 +2,7 @@ group 'com.ace.bubble.flutterbubble'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.2.71'
+    ext.kotlin_version = '1.3.50'
     repositories {
         google()
         jcenter()
